@@ -13,3 +13,5 @@ We also implement the function to remove the last digit of the input value in co
   
 Because you don't use connectors, you can use PowerApps as soon as you import them, independent of your environment.  
 In addition, there is no need for a premium license, so anyone with a license that can use PowerApps can use it.   
+
+<img src="https://github.com/KuramotoYu/PowerAppsSample/blob/master/SimpleCalculator/Images.png" width="250">
